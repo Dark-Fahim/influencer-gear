@@ -265,14 +265,18 @@ ul li a{
 
 .footer{
     height: 240px;
-    background: #0A0826;
     margin-top: 80px;
     color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    background-color: #0A0826;
+    flex-wrap: wrap;
+    padding: 15px;
 }
+
 .footer h1{
     font-size: 24px;
     font-weight: 700;
