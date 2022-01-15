@@ -314,14 +314,28 @@ ul li a{
         margin: 0 auto;
         gap: 40px;
     }
+    .main-banner{
+        height: auto;
+    }
+    .banner-img{
+        height: 400px;
+    }
+    .banner-img img{
+        width: 70%;
+        
+    }
     .nav-bar{
         display: none;
     }
     .collection-cards{
         display: grid;
         grid-template-columns: 1fr;
-        margin: 0 auto;
+        margin:  auto;
         gap: 40px;
+    }
+    .feature-banner img{
+        width: 95%;
+        height: 275px;
     }
     .footer{
         width: 100%;
@@ -352,3 +366,5 @@ ul li a{
         margin: 0 auto;
         gap: 40px;
     }
+    
+}
