@@ -77,7 +77,7 @@ ul li a{
     gap: 30px;
     margin-top: 50px;
     margin-bottom: 50px;
-    height: 100vh;
+    height: 550px;
 }
 .banner-content{
     margin-top: 50px;
@@ -322,7 +322,7 @@ ul li a{
     }
     .banner-img img{
         width: 70%;
-        
+        height: auto;
     }
     .nav-bar{
         display: none;
