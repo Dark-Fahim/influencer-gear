@@ -334,8 +334,8 @@ ul li a{
         gap: 40px;
     }
     .feature-banner img{
-        width: 95%;
-        height: 275px;
+        width: 85%;
+        height: auto;
     }
     .footer{
         width: 100%;
